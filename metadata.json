@@ -1,0 +1,6 @@
+{
+  "name": "Studio Photo Lab AI",
+  "description": "Professional AI photo studio lab for authentic vintage photo restoration & colorization, multi-photo merge synthesis, studio re-lighting, generative retouching, and portrait creation by Architect Johan Fako, Plešivec.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
